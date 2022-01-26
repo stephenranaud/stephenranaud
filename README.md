@@ -5,7 +5,7 @@
 ## Développeur Web et mobile 👨🏽‍💻
 
 
-Développeur, concepteur, je fais essentiellement du développement Web, cependant j'ai également des compétences en développement mobile avec le cadriciel Flutter de Google, j'aime apprendre de nouvelles choses , j'aime résoudre des problèmes. Cependant je suis plutôt perfectionniste cela est mon défaut car ``Done is better than perfect``, de ce fait je suis en continue dans mon apprentissage, toujours à essayer de sortir de ma zone de confort et relever des défis.
+Developer, designer, I do mainly web development, however I also have skills in mobile development with the Google Flutter framework, I like to learn new things, I like to solve problems. However I'm rather perfectionist that's my default because ``Done is better than perfect``, so I'm continuously learning, always trying to get out of my comfort zone and take challenges.
 
 Skills: PHP / JS / TypeScript / Dart / Angular / React / Integration 
 
