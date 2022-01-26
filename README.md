@@ -1,6 +1,6 @@
 # Hi there 👋,  I'am Stephen
 
-![Développeur Web et mobile](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Développeur Web et mobile](https://github.com/stephenranaud/stephenranaud/blob/main/banner-github.png?raw=true)
 
 ## Développeur Web et mobile
 
