@@ -11,7 +11,7 @@
 
 > ## Find me around the web 🌎:
 > 
-> - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='background-color: red' >]
+> - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RanaudStephen)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true) 
 
