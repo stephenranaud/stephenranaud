@@ -10,7 +10,7 @@
 
 > ## Find me around the web 🌎:
 > 
-> - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='10'>](https://twitter.com/RanaudStephen)  
+> - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/RanaudStephen)  
 > - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
 ## Github-Stats 📈
 
