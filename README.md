@@ -1,4 +1,4 @@
-# Hi there 👋,  I'am Stephen
+# Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,  I'am Stephen
 
 ![Développeur Web et mobile](https://github.com/stephenranaud/stephenranaud/blob/main/banner-github.png?raw=true)
 
