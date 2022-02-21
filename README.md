@@ -26,13 +26,12 @@
 
 ## Github-Stats 📈:
 
-<div>
+<div style="display:flex">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
 </div>
  <br>
  <br>
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
 <p>
  <a href="https://twitter.com/ranaudstephen" target="blank"><img src="https://img.shields.io/twitter/follow/ranaudstephen?logo=twitter&style=for-the-badge" alt="ranaudstephen" /></a> 
 </p>
