@@ -13,5 +13,5 @@
 > - **DevChallenges** | [<img alt='devchallenges' height='20' src='https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png'>](https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png)
 ## Github-Stats 📈
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)
-<span style="float:left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenranaud&show_icons=true&locale=en&layout=compact" alt="stephenranaud" /></span>
+<div>![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)</div>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenranaud&show_icons=true&locale=en&layout=compact" alt="stephenranaud" />
