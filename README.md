@@ -14,6 +14,6 @@
 ## Github-Stats 📈
 
 <div>
- <span>![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)</span>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)
 <span><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenranaud&show_icons=true&locale=en&layout=compact" alt="stephenranaud" /></span>
 </div>
