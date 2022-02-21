@@ -6,13 +6,11 @@
 
 **Developer, designer, I do mainly web development**, however I also have skills in mobile development with the Google Flutter framework, I like to learn new things, I like to solve problems. However I'm rather perfectionist that's my default because ``Done is better than perfect``, so I'm continuously learning, always trying to get out of my comfort zone and take challenges.
 
- PHP / Symfony / JS / Angular / TypeScript / Dart / Flutter / Integration
-
 > ## Find me around the web 🌎:
 > 
 > - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/RanaudStephen)  
 > - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
-> - **DevChallenges** | [<a target="_blank">DevChallenges</a>](https://devchallenges.io/portfolio/stephenranaud)
+> - **DevChallenges** | [<>DevChallenges](https://devchallenges.io/portfolio/stephenranaud)
 ## Github-Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true) 
