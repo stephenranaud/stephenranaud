@@ -27,8 +27,8 @@
 ## Github-Stats 📈:
 
 <div>
- <span>
-  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en" />
+ <span display="flex">
+  <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
   <img height="100%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=jolly&locale=en" />
  </span>
  <span>
