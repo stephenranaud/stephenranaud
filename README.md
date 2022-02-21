@@ -12,7 +12,7 @@
 > 
 > - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/RanaudStephen)  
 > - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
-> - **DevChallenges** | [**<>**DevChallenges](https://devchallenges.io/portfolio/stephenranaud)
+> - **DevChallenges** | [<a target="_blank">DevChallenges</a>](https://devchallenges.io/portfolio/stephenranaud)
 ## Github-Stats 📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true) 
