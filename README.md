@@ -14,16 +14,14 @@
 
 ## Skills 🔨:
 
-<div>
-  <p> 
+<p>
   > ## Find me around the web 🌎:
 > 
 > - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/RanaudStephen)  
 > - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
 > - **DevChallenges** | [<img alt='devchallenges' height='20' src='https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png'>](https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png)
-  </p>
-  
-</div>
+ 
+</p>
 ## Github-Stats 📈:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)
