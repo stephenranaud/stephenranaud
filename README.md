@@ -14,9 +14,9 @@
 
 > ## Find me around the web 🌎:
 > 
-> - **Twitter** | <a href="https://twitter.com/ranaudstephen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaudstephen" height="30" width="40" /></a>
+> - **Twitter** | <a href="https://twitter.com/ranaudstephen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ranaudstephen" height="30" width="40" /></a>
 > - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
-> - **DevChallenges** | <a href="https://devchallenges.io/portfolio/stephenranaud" target="blank" alt="devchallenges"><img src="https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png" height="30"></a> 
+> - **DevChallenges** | <a href="https://devchallenges.io/portfolio/stephenranaud" target="_blank" alt="devchallenges"><img src="https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png" height="30"></a> 
 
  <br>
  <br>
