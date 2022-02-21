@@ -26,11 +26,16 @@
 
 ## Github-Stats 📈:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)
+<div>
+ <span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stephenranaud&theme=jolly&show_icons=true&locale=en&layout=compact" />
+ </span>
+ <span>
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=stephenranaud&show_icons=true)
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stephenranaud" alt="stephenranaud"/></div>
- 
+
+ </span>
+</div>
  <br>
  <br>
 <p>
