@@ -16,14 +16,11 @@
 
 <div>
   <p> 
-    > ### Front-End:
-    > <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a>
-    >  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    > <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-    
+  > ## Find me around the web 🌎:
+> 
+> - **Twitter** | [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/RanaudStephen)  
+> - **Ask me about anything** | 💬 [here](https://github.com/stephenranaud/stephenranaud/issues)
+> - **DevChallenges** | [<img alt='devchallenges' height='20' src='https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png'>](https://raw.githubusercontent.com/stephenranaud/stephenranaud/eb72b1864e984e1980bd87bf7cfdfce86c01459c/devchallenges.png)
   </p>
   
 </div>
