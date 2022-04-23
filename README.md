@@ -32,6 +32,5 @@
  <br>
  <br>
 <p>
- <a href="https://twitter.com/ranaudstephen" target="blank"><img src="https://img.shields.io/twitter/follow/ranaudstephen?logo=twitter&style=for-the-badge" alt="ranaudstephen" /></a> 
- <a href="https://www.linkedin.com/in/stephen-ranaud" target="blank"><img src="https://img.shields.io/linkedin/follow/ranaudstephen?logo=linkedin&style=for-the-badge" alt="ranaudstephen" /></a> 
+ <a href="https://twitter.com/ranaudstephen" target="blank"><img src="https://img.shields.io/twitter/follow/ranaudstephen?logo=twitter&style=for-the-badge" alt="ranaudstephen" /></a>  
 </p>
